@@ -1,6 +1,6 @@
 # Red Hat High School Internship 2024
 
-This is the homepage for the 2024 Red Hat High School Internship program.
+This is the homepage for the 2024 Red Hat High School Internship program. To view the live site, visit: [https://rh-hs-interns-2024.github.io/](https://rh-hs-interns-2024.github.io/) 
 
 ## Developing
 
